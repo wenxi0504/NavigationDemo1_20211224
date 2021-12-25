@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NavigationDemo1_20211224</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textView">Home</string>
+    <string name="textViewDetail">Detail</string>
 </resources>
